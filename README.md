@@ -1,2 +1,3 @@
 # bubbleshooter-sdl2
-Project for bubbleshooter game made in SDL2 with C. 
+University project for bubbleshooter game made in SDL2 with C. Currently inoperable but we hope to fix that before the due date.
+Heheh.
